@@ -1,0 +1,14 @@
+.headerbar{
+    background-color: cyan;
+    margin: 0px;
+    border: 0px;
+    height: 100px;
+}
+
+.ng-cloak{
+    display: none !important;
+}
+
+i.icon-white{
+    color: white;
+}

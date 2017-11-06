@@ -1,0 +1,17 @@
+{
+  "name": "Your-Gallary",
+  "authors": [
+    "vectorgrid <adarsha.das@outlook.com>"
+  ],
+  "description": "A showcase to your memories",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
